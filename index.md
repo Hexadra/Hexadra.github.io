@@ -15,9 +15,9 @@ See the repo for bioinfo course here:
 
 **Week1 homework is in: [Week1_homework](https://github.com/Hexadra/bioinfo/blob/main/Week1_homework.md)  **  
 
-[walalala](https://Hexadra.github.io/bioinfo/main/hw1.html)
+[walalala](https://hexadra.github.io/bioinfo/hw1.html)
 
-	wiuebfnfnvgansdvl
+	wiuebfnfnvga
  
 1. hin   
   *qfe  
@@ -32,18 +32,10 @@ See the repo for bioinfo course here:
     1.fs  
     2.fg  
 
-fb`wvwsdbnvjkdas`fbzdf
+fb`wvwsdbnvjkdas`fbz
 
 ![pandas](https://wallpapertag.com/wallpaper/full/c/e/5/230888-cute-tumblr-wallpapers-2560x1600-for-android-tablet.jpg "panda")
 
-
-
-1.sss
-2.dd
-
-* sss
-* sss
-* ss
 
 
 References:
