@@ -12,7 +12,7 @@ School of Life Sciences, Tsinghua University<br>
 
 
 
-**Week1 homework is in: [Week1_homework](https://github.com/Hexadra/bioinfo/blob/main/Week1_homework.html)**  
+**Week1 homework is in: [Week1_homework](https://hexadra.github.io/bioinfo/Week1_homework.html)**  
 
 
 
