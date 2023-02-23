@@ -16,7 +16,7 @@ School of Life Sciences, Tsinghua University<br>
 
 
 
-See the repo for bioinfo course here:
+See the repo for 23spring Bioinformatics course here:
 [bioinfomatics](https://github.com/Hexadra/bioinfo)
 
 
