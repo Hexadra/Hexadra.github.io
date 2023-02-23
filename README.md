@@ -1,1 +1,2 @@
-# Hexadra.github.io
+# My site
+[bioinfomatics](https://github.com/Hexadra/bioinfo)
