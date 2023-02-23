@@ -1,5 +1,14 @@
 # Welcome to my site!
 
+
+This repository is owned by:  
+<center>
+贾宏哲Hongzhe Jia<br>
+清华大学生命学院 生02<br>
+School of Life Sciences, Tsinghua University<br>
+	
+</center><br>
+
 See the repo for bioinfo course here:
 [bioinfomatics](https://github.com/Hexadra/bioinfo)
 
