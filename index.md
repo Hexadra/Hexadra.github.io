@@ -23,8 +23,8 @@ See the repo for bioinfo course here:
 
  
 1. Homework for Bioinfomatics course:    
-  1. week1  
-  wefsbk   
+	1. week1  
+	2. ...  
 3. dddd   
 	* ss
 
