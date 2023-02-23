@@ -15,7 +15,7 @@ See the repo for bioinfo course here:
 
 **Week1 homework is in: [Week1_homework](https://github.com/Hexadra/bioinfo/blob/main/Week1_homework.md)  **  
 
-[walalala](https://Hexadra.github.io/bioinfo/blob/main/hw1.html)
+[walalala](https://Hexadra.github.io/bioinfo/main/hw1.html)
 
 	wiuebfnfnvgansdvl
  
