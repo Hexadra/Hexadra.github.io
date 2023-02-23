@@ -8,7 +8,7 @@ Week1 homework is in: [Week1_homework](https://github.com/Hexadra/bioinfo/blob/m
 
 
 ⋅⋅qfe
-··wefsbk
+..wefsbk
 
 
 
