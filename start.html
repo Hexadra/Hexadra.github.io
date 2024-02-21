@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>欢迎页</title>
+</head>
+
+<body>
+<style type="text/css">
+#main{
+height:750px;
+width:100%;
+background-image: url(data/img/su2.png);
+background-size: 100% 110%;
+}
+#bu{
+padding-left:0px;
+padding-top:20px;
+}
+#we{
+text-align:left;
+color: #454545;
+margin:auto;
+font-size:80px;
+font-family:"arial", rounded ;
+padding-top:140px;
+line-height:90px;
+}
+#gm{
+text-align:left;
+color: #454545;
+margin:auto;
+font-size:24px;
+font-family:"arial", rounded ;
+padding-top:20px;
+line-height:28px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #909090;
+  border: 5px solid #909090;
+  border-radius:10% 10% 10% 10%;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 48px;
+  font-family:"arial", rounded ;
+  text-decoration:none;
+
+  padding-up: 40px;
+
+  width: 200px;
+  transition: all 0.3s forward;
+  cursor: pointer;
+  margin: 0px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+    content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.3s;
+}
+.button:hover{
+
+  background-color:white;
+
+}
+.button:hover span {
+  padding-right: 30px;
+  opacity:1;
+  color: #909090;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+
+
+<div id="main" >
+<center>
+	<div id="we">
+		<center>
+		<b>A journey <br/>to the colourful world <br/>of Biochemistry!</b>
+		</center>
+	</div>
+	<div id="gm">
+		<center>
+		Group Members: <br/>陈俊达&nbsp;&nbsp;贾宏哲<br/>钱扬&nbsp;&nbsp;沈扬
+		</center>
+	</div>
+	<div id="bu" >
+		<center>
+			<a href="data/main.html" >
+			<button class="button">
+			<span>
+				Start!
+			</span>
+			</button>
+			</a>
+		</center>
+	</div>
+
+</center>
+</div>
+
+</body>
+</html>
