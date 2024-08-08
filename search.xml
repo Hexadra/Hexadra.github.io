@@ -19,20 +19,6 @@
     <content><![CDATA[<p>this is a test post.  </p>
 <h1 id="header1"><a href="#header1" class="headerlink" title="header1"></a>header1</h1><h2 id="header2"><a href="#header2" class="headerlink" title="header2"></a>header2</h2><h3 id="header3"><a href="#header3" class="headerlink" title="header3"></a>header3</h3><h4 id="header4"><a href="#header4" class="headerlink" title="header4"></a>header4</h4><h5 id="header5"><a href="#header5" class="headerlink" title="header5"></a>header5</h5><p><u>underlined</u><br><em>italic</em><br><strong>bold</strong>   </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">code</span><br><span class="line">code</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h3 id="ToDo-List"><a href="#ToDo-List" class="headerlink" title="ToDo List"></a>ToDo List</h3><ol>
-<li><p>侧边栏美化一下(宽度还是320吧)<br>1.1 把页首菜单塞进去<br>1.2 展开收拢的按钮区域改一下</p>
-</li>
-<li><p>动态超链接？</p>
-</li>
-<li><p>post尾加上评论功能</p>
-</li>
-<li><p>cate和tag页面加上</p>
-</li>
-<li><p>改一下慢吞吞的页面加载动画</p>
-</li>
-<li><p>新设置一些预置格式（包括图片大小排布）</p>
-</li>
-</ol>
 ]]></content>
       <categories>
         <category>test</category>
@@ -110,6 +96,29 @@
 ]]></content>
       <categories>
         <category>杂记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>【短诗】破碎</title>
+    <url>/2024/06/26/%E7%9F%AD%E8%AF%97_%E7%A0%B4%E7%A2%8E/</url>
+    <content><![CDATA[<p>我在每个回忆的瞬间沉重地跳跃。<br>踏上那些碎片的一刻它就倾覆碎裂<br>我跌落<br>抓起几捧锋利边缘填进贯穿的内心<br>血痂被划开，流出血又凝结，像隐忍的熔岩。</p>
+]]></content>
+      <categories>
+        <category>短诗</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>【短诗】当落叶仍在枝头</title>
+    <url>/2024/04/07/%E7%9F%AD%E8%AF%97_%E5%BD%93%E8%90%BD%E5%8F%B6%E4%BB%8D%E5%9C%A8%E6%9E%9D%E5%A4%B4/</url>
+    <content><![CDATA[<p>当所有落叶仍在枝头<br>当花儿团成骨朵，风携着尘沙北去</p>
+<p>乌鸦从四面八方赶来，聚在同一棵树顶<br>积雪间产生从未被听闻的回音</p>
+<p>流出我耳边的悄声一句，飞进你双唇<br>我依然乐观，依然天真</p>
+<p>为何皱着眉呢？我对你笑道<br>望向你积满冰雪的眼睛</p>
+<p>你怎么知道我的名字？良久，你反问<br>声音带着微颤，装傻技巧还太生疏</p>
+<p>你朝我伸出手，然后万物倒流<br>小河滺滺，世界花团锦簇</p>
+]]></content>
+      <categories>
+        <category>短诗</category>
       </categories>
   </entry>
 </search>
